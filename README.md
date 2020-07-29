@@ -5,7 +5,7 @@
 The assessment consists of 2 parts: a coding challenge and then a code walkthough with the staff where we will ask questions about your code.
 
 ## Coding Challenge
-Using *your wireframes* as a guide.
+Using *your dev portfolio home page wireframes* as a guide.
 - Create an HTML page that mimics your design for you home/landing page
   - Note that text and/or images can simply be placeholders and random text
 - Using CSS grid, layout the components on the page to mimic your home page design as closely as possible
