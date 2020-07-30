@@ -7,7 +7,7 @@ The assessment consists of 2 parts: a coding challenge and then a code walkthoug
 ## Coding Challenge
 Using the included *dev portfolio home page wireframe* as a guide (sample_portfolio.png).
 - Create an HTML page that mimics the design of the home/landing page
-  - Note that text and/or images can simply be placeholders and random text
+  - Note use text and included image for your page
 - Using CSS grid, layout the components on the page to mimic your home page design as closely as possible
   - The styling does not need to be elaborate in any way, but should position the different components
 - Link a JavaScript file that will mimic the bahavior of a contact form using multiple prompts (it can run automatically when home page is loaded)
