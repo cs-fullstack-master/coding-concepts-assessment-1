@@ -5,7 +5,7 @@
 The assessment consists of 2 parts: a coding challenge and then a code walkthough with the staff where we will ask questions about your code.
 
 ## Coding Challenge
-Using the included *dev portfolio home page wireframe* as a guide.
+Using the included *dev portfolio home page wireframe* as a guide (sample_portfolio.png).
 - Create an HTML page that mimics the design of the home/landing page
   - Note that text and/or images can simply be placeholders and random text
 - Using CSS grid, layout the components on the page to mimic your home page design as closely as possible
@@ -16,4 +16,4 @@ Using the included *dev portfolio home page wireframe* as a guide.
   - Prompt for a contact message 
   - The user should not be able to leave any of the 3 prompts blank and your program should continue to ask for the inputs until a value has been provided for all of them
   - Each of the 3 inputs should be stored into an array
-  - After all 3 inputs have been provided, display the entered items in an alert dialog using a template literal to format the entries one per line.
+  - After all 3 inputs have been provided, display the entered items in an alert dialog using a template literal to format the entries one per line pulling each entry from the array.
